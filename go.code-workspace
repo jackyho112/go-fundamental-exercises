@@ -14,6 +14,12 @@
 		},
 		{
 			"path": "http"
+		},
+		{
+			"path": "shapes"
+		},
+		{
+			"path": "fileReader"
 		}
 	]
 }
