@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "cards"
+		},
+		{
+			"path": "structs"
+		},
+		{
+			"path": "maps"
+		},
+		{
+			"path": "interfaces"
+		},
+		{
+			"path": "http"
+		}
+	]
+}
