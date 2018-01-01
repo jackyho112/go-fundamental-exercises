@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "fileReader"
+		},
+		{
+			"path": "channels"
 		}
 	]
 }
